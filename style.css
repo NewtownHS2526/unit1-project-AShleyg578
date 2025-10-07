@@ -14,4 +14,7 @@ div {
   #header {
     background-color: #bc7329;
   }
- h3
+ h3 {
+    border: dotted white 2px;
+
+  
