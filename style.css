@@ -9,14 +9,15 @@ div {
     max-width: 80%;
     height: 100px;
     width: 100px;
+    border-radius: red 2px;
   }
   
   #header {
-    background-color: #bc7329;
+    background-color: #ffffff;
   }
 
  h3 {
-    border: dotted white 2px;
-   background-color:#ffe770;
+    border: dotted red 2px;
+   background-color:#e86f3b;
 
  }
